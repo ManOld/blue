@@ -23,7 +23,12 @@
     lb.textColor =[UIColor whiteColor];
     [self.view addSubview:lb];
 }
-
+-(NSArray *)array{
+    if (_array == nil) {
+        _array = @[@"one",@"two",@"three"];
+    }
+    return _array;
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
