@@ -8,6 +8,7 @@
 
 ## Build generated
 .DS_Store
+libbaiduNaviSDK.a
 build/
 DerivedData/
 

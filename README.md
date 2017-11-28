@@ -1,4 +1,2 @@
 # AddName
-AddName by LH
-hahaha
-la
+你今天好帅！
